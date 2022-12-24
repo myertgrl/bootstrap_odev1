@@ -1,0 +1,87 @@
+/* body kısmı font ayarı */
+.bFont {
+    font: 1em sans-serif;
+    background-color: #E9ECEF;
+}
+
+/* nav bar başlık üzerine gelindiğinde arka plan rengi değiştirme ayarı */
+.navBack:hover {
+    background-color: rgb(69, 71, 77);
+}
+
+/* jumbotron kısmı renk ve yazı ayarı */
+.jumbotron {
+    background-color: rgb(190, 190, 190);
+    padding: 2%;
+    text-align: justify;
+    color:rgb(70, 70, 70);
+    font-size: larger;
+    font-weight: 500;
+}
+
+/* ana sayfa ürünler yönlendirme link ayarı */
+.link1 {
+    text-decoration: none;
+    color:rgb(204, 142, 26);
+    font-weight: 600;
+}
+
+.link1:hover {
+    color:darkslategrey;
+}
+
+/* ana sayfa liste ayarı */
+.list1 {
+    list-style: none;
+    font-size: 1.4em;
+}
+
+.list2 {
+    margin-top: 1.5%;
+}
+
+/* ana sayfa hakkımızda yönlendirme buton ayarı */
+.btn1 {
+    background-color:rgb(56, 63, 70);
+    font-weight: 800;
+}
+
+/* ürünler sayfası ana başlık ayarı*/
+.header1 {
+    font-weight: 700;
+    color:rgb(204, 142, 26);
+    padding-top: 3%;
+}
+
+/* ürünler sayfası kartların bulunduğu ana satır ayarı */
+.card1 {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 2%;
+}
+
+/* ürünler kart dış ayarı */
+.card2 {
+    margin-bottom: 10px;
+}
+
+/* ürünler kart iç ayarı */
+.card3 {
+    background-color:white;
+    border-radius: 3%;
+    padding: 7px;
+    height: 100%;
+    width: 100%;
+}
+
+/* ürünler kart paragraf yazı ayarı */
+.font1 {
+    font-weight: 700;
+    font-size: large;
+    padding-top: 5%;
+}
+
+/* hakkımızda sayfası container genel yazı düzeni ayarı*/
+.cont3 {
+    text-align: justify;
+}
